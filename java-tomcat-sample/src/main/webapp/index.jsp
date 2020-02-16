@@ -1,5 +1,8 @@
 <html>
+<head>
+    <title>Ingrain Inc</title>
+</head>
 <body>
-<h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
+<h2>Deploying from github...</h2>
 </body>
 </html>
